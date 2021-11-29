@@ -1,5 +1,5 @@
 # machineLearning_2
-This is a implementation of decision tree. 
+This is an implementation of decision tree. 
 
 student.py is the main file.
 
